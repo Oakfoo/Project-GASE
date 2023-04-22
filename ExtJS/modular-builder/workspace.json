@@ -1,5 +1,7 @@
 {
-  "apps": [],
+  "apps": [
+        ""
+    ],
   "frameworks": {
     "ext": {
       "path": "node_modules/@sencha/ext",
