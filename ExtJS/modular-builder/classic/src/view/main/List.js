@@ -22,6 +22,6 @@ Ext.define('Modular.builder.view.main.List', {
     ],
 
     listeners: {
-        select: 'onItemSelected'
+        // select: 'onItemSelected'
     }
 });
