@@ -1,4 +1,4 @@
-package grailsmodular.builder
+package modular.builder
 
 class BootStrap {
 
